@@ -435,7 +435,7 @@ const songsDatabase = [
   {
     "id": 73,
     "title": "JAYE SAJANA",
-    "file": "songs/Ishq Jalakar - Karvaan (Lyrics⧸English Translation)- Dhurandhar ｜ na toh karvan ki talash hai.mp3",
+    "file": "songs/Jaiye Sajana - Dhurandhar_ The Revenge (Lyrics)  LyricalLyfe.mp3",
     "duration": "0:00"
   }
 ];
