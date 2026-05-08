@@ -435,7 +435,7 @@ const songsDatabase = [
   {
     "id": 73,
     "title": "JAYE SAJANA",
-    "file": "songs/Alladsu Alladsu ｜ Audio Song ｜ Chowka ｜ Kashinath ｜ Prem Kumar ｜Diganth ｜Vijay ｜Prajwal Devraj.mp3",
+    "file": "songs/Jaiye Sajana - Dhurandhar_ The Revenge (Lyrics) LyricalLyfe.mp3",
     "duration": "0:00"
   }
 ];
