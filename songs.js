@@ -431,5 +431,11 @@ const songsDatabase = [
     "title": "＂Kabira Full Lyrics Song＂ Yeh Jawaani Hai Deewani｜ Ranbir Kapoor, Deepika Padukone",
     "file": "songs/＂Kabira Full Lyrics Song＂ Yeh Jawaani Hai Deewani｜ Ranbir Kapoor, Deepika Padukone.mp3",
     "duration": "0:00"
+  },
+  {
+    "id": 73,
+    "title": "JAYE SAJANA",
+    "file": "songs/Alladsu Alladsu ｜ Audio Song ｜ Chowka ｜ Kashinath ｜ Prem Kumar ｜Diganth ｜Vijay ｜Prajwal Devraj.mp3",
+    "duration": "0:00"
   }
 ];
